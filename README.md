@@ -3,6 +3,7 @@ A 78 key ultra-wide mechanical keyboard made by Handful_Of_Ants
 
 This keyboard was designed with Keyboard Layout Editor. It includes a function cluster (1-12), stepped capslock, 10u spacebar, "Big Ass Enter", 2.75u backspace, and a numpad. All files are available for commercial and personal use.
 
+![image](https://user-images.githubusercontent.com/101230389/159542317-b80e81ee-2265-4b9c-b1c6-23246c0a8653.png)
 
 [Keyboard Layout Editor JSON file](https://github.com/handful-of-ants/Ant_Keyboard/blob/cd681aaa71999b1360a2ffdcdb4b7c783bee3a09/Keyboard%20Layout%20Editor%20File.json)
 
